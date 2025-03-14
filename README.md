@@ -89,23 +89,6 @@ Card-Detection/
 
 4. **Visualization**: The identified cards are drawn on the frame with their contours and identities.
 
-## 🔮 Future Directions
 
-- Integration of YOLOv5 for more robust card detection
-- Improved handling of varying lighting conditions
-- Performance optimization for smoother real-time processing
-- Enhanced UI for displaying game information
-- Implementation of blackjack game logic
 
-## 👥 Contributing
 
-Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements or bug fixes.
-
-## 📄 License
-
-This project is open source and available for educational purposes.
-
-## 🙏 Acknowledgements
-
-- OpenCV documentation and community
-- [Add any other resources or inspirations]
